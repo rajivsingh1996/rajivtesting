@@ -1,1 +1,0 @@
-php artisan make:controller Users --plain
